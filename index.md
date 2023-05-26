@@ -1,5 +1,5 @@
 # Ruang Shooting UG TV dengan Blender
-![Foto UG TV](media/ug_tv.jpg)
+![Foto UG TV](media/RENDER.png)
 ## NAMA KELOMPOK :
 1. AQSHA NASUTION (50420212)
 2. ASKA PRAMANDA TANTO (51420338)
