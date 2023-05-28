@@ -37,4 +37,4 @@ Buatlah animasi kamera untuk memberikan pandangan yang dinamis dalam ruangan. An
 Sebelum melakukan proses render, tentukan pengaturan render yang sesuai dengan kebutuhan Anda. Pilih resolusi, format file, dan pengaturan lainnya agar hasil render sesuai dengan ekspektasi.
 
 ## 8. Kesimpulan
-Dalam panduan ini, kami telah membahas langkah-langkah dasar untuk membuat ruang shooting UG TV dengan Blender. Dari pembuatan model ruangan hingga penambahan objek dan animasi kamera, Anda dapat menciptakan ruang shooting yang realistis dan interaktif. Selanjutnya, Anda dapat mengeksplorasi lebih lanjut dengan menambahkan detail dan efek khusus sesuai kebutuhan produksi TV Anda.
+Dalam panduan ini, kami telah membahas langkah-langkah dasar untuk membuat ruang shooting UG TV dengan Blender. Dari pembuatan model ruangan hingga penambahan objek dan animasi kamera, Anda dapat menciptakan ruang shooting yang realistis dan interaktif.
