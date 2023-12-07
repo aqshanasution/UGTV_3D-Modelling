@@ -5,11 +5,11 @@
 [![Download zip](https://custom-icon-badges.herokuapp.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download zip")](https://drive.google.com/drive/folders/1ZyPJ-ausymBgS4ZFpbllGjGY3BOkHuD5?usp=sharing)
 
 
-## NAMA KELOMPOK :
+## Names of Group Members :
 1. AQSHA NASUTION (50420212)
 2. ASKA PRAMANDA TANTO (51420338)
 3. BRIAN RIAN REHAN (50420296)
-## Daftar Isi
+## Table of Contents
 1. Pendahuluan
 2. Persiapan Awal
 3. Membuat Model Ruangan
