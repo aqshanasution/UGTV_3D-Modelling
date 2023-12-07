@@ -1,42 +1,43 @@
-# Ruang Shooting UG TV dengan Blender
+# Shooting Room UG TV with Blender
 ![Foto UG TV](media/RENDER.png)
 ![Foto UG TV](media/ugtvanim.gif)
 ## DOWNLOAD PROJECT
 [![Download zip](https://custom-icon-badges.herokuapp.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download zip")](https://drive.google.com/drive/folders/1ZyPJ-ausymBgS4ZFpbllGjGY3BOkHuD5?usp=sharing)
-## NAMA KELOMPOK :
-1. AQSHA NASUTION (50420212)
-2. ASKA PRAMANDA TANTO (51420338)
-3. BRIAN RIAN REHAN (50420296)
-## Daftar Isi
-1. Pendahuluan
-2. Persiapan Awal
-3. Membuat Model Ruangan
-4. Pencahayaan dan Penyetingan Materi
-5. Penambahan Objek dan Perlengkapan TV
-6. Animasi Kamera
-7. Pengaturan Render
-8. Kesimpulan
+**GROUP NAME:**
+AQSHA NASUTION (50420212)
+ASKA PRAMANDA TANTO (51420338)
+BRIAN RIAN REHAN (50420296)
 
-## 1. Pendahuluan
-Ruang shooting UG TV virtual memungkinkan Anda untuk membuat studio televisi yang interaktif dan realistis. Dengan Blender, Anda dapat merancang ruangan, menambahkan perlengkapan TV, dan mengatur pencahayaan dengan mudah.
+**Table of Contents**
+Introduction
+Initial Preparation
+Creating the Room Model
+Lighting and Material Settings
+Adding Objects and TV Equipment
+Camera Animation
+Render Setup
+Conclusion
 
-## 2. Persiapan Awal
-Sebelum memulai, pastikan Anda telah menginstal Blender dan menguasai dasar-dasar penggunaannya. Juga, kumpulkan referensi tentang ruang shooting UG TV agar dapat merancang dengan lebih baik.
+**1. Introduction**
+The virtual UG TV shooting space allows you to create an interactive and realistic television studio. With Blender, you can design the room, add TV equipment, and easily adjust the lighting.
 
-## 3. Membuat Model Ruangan
-Mulailah dengan membuat model ruangan yang akan digunakan untuk shooting UG TV. Anda dapat menggunakan tools modeling di Blender untuk membuat dinding, lantai, dan langit-langit ruangan. Pastikan untuk memperhatikan proporsi dan skala agar ruangan terlihat realistis.
+**2. Initial Preparation**
+Before starting, ensure you have installed Blender and have a basic understanding of its usage. Also, gather references for the UG TV shooting space to enhance your design.
 
-## 4. Pencahayaan dan Penyetingan Materi
-Pencahayaan memainkan peran penting dalam menciptakan suasana di ruang shooting. Gunakan pencahayaan dalam Blender untuk menentukan sumber cahaya dan intensitasnya. Anda juga dapat mengatur penyetingan materi agar objek-objek dalam ruangan terlihat seperti yang diinginkan.
+**3. Creating the Room Model**
+Begin by creating a model of the room that will be used for UG TV shooting. Utilize Blender's modeling tools to craft the walls, floor, and ceiling of the room. Pay attention to proportions and scale to achieve a realistic appearance.
 
-## 5. Penambahan Objek dan Perlengkapan TV
-Tambahkan objek-objek seperti meja, kursi, kamera, mikrofon, monitor, dan perlengkapan TV lainnya ke dalam ruangan. Pastikan objek-objek tersebut ditempatkan dengan baik dan sesuai dengan kebutuhan produksi TV.
+**4. Lighting and Material Settings**
+Lighting plays a crucial role in setting the atmosphere in the shooting space. Use Blender's lighting features to define the light source and its intensity. You can also adjust material settings to make objects in the room appear as desired.
 
-## 6. Animasi Kamera
-Buatlah animasi kamera untuk memberikan pandangan yang dinamis dalam ruangan. Anda dapat membuat kamera bergerak, zoom, atau mengikuti pergerakan objek di ruangan. Eksplorasi variasi sudut pandang untuk mendapatkan hasil yang menarik.
+**5. Adding Objects and TV Equipment**
+Incorporate objects such as tables, chairs, cameras, microphones, monitors, and other TV equipment into the room. Ensure these objects are well-placed and meet the requirements of TV production.
 
-## 7. Pengaturan Render
-Sebelum melakukan proses render, tentukan pengaturan render yang sesuai dengan kebutuhan Anda. Pilih resolusi, format file, dan pengaturan lainnya agar hasil render sesuai dengan ekspektasi.
+**6. Camera Animation**
+Create camera animations to provide dynamic perspectives within the room. You can make the camera move, zoom, or follow the movement of objects in the space. Explore different angles to achieve compelling results.
 
-## 8. Kesimpulan
-Dalam panduan ini, kami telah membahas langkah-langkah dasar untuk membuat ruang shooting UG TV dengan Blender. Dari pembuatan model ruangan hingga penambahan objek dan animasi kamera, Anda dapat menciptakan ruang shooting yang realistis dan interaktif.
+**7. Render Setup**
+Before initiating the rendering process, specify rendering settings according to your needs. Choose resolution, file format, and other settings to ensure the rendered output meets expectations.
+
+**8. Conclusion**
+In this guide, we have discussed the fundamental steps for creating a UG TV shooting space with Blender. From crafting the room model to adding objects and camera animation, you can create a realistic and interactive shooting space.
