@@ -3,10 +3,13 @@
 ![Foto UG TV](media/ugtvanim.gif)
 ## DOWNLOAD PROJECT
 [![Download zip](https://custom-icon-badges.herokuapp.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download zip")](https://drive.google.com/drive/folders/1ZyPJ-ausymBgS4ZFpbllGjGY3BOkHuD5?usp=sharing)
+
+
 **GROUP NAME:**
 AQSHA NASUTION (50420212)
 ASKA PRAMANDA TANTO (51420338)
 BRIAN RIAN REHAN (50420296)
+
 
 **Table of Contents**
 Introduction
@@ -17,6 +20,7 @@ Adding Objects and TV Equipment
 Camera Animation
 Render Setup
 Conclusion
+
 
 **1. Introduction**
 The virtual UG TV shooting space allows you to create an interactive and realistic television studio. With Blender, you can design the room, add TV equipment, and easily adjust the lighting.
